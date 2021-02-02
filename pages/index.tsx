@@ -6,7 +6,8 @@ export default function Home() {
 		<Container maxWidth="sm">
 			<Box my={4}>
 				<Typography variant="h4" component="h1" gutterBottom>
-					Next.js example - jacks brand testing
+					Next.js example - I have updated this page - did it go live
+					automatically?
 				</Typography>
 				<Link href="/about">
 					<Button variant="contained" color="primary">
